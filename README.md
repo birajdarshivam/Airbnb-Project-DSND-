@@ -9,19 +9,28 @@
 The project was implemented using Anaconda distribution of Python 3.0. Moreover I have used the following python libraries:
 
 •	Matplotlib
+
 •	NumPy
+
 •	Pandas
+
 •	Seaborn
+
 •	Sklearn
+
 •	collections
 
 
 # Motivation:
 
 •	This project has been conducted as a part of Udacity's Data Scientist Nanodegree. 
+
 •	Finding some answers:
+
 •	How to get the best price
+
 •	How to get better reviews
+
 •	Which type of property is more preferable... 
 
 
