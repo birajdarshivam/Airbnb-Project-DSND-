@@ -51,7 +51,7 @@ By using CRISP-DM we get result easily, we get this result by using the Amsterda
 most per month reviews get by hostels, more preferable room type is appartment, customers are prefered
 neighbourhood cleansed, average price is 42.83 ...etc.
 
-Medium link : https://medium.com/@birajdarshivam11/analysis-of-the-data-of-airbnb-cc8495fcfd0b?sk=87c56cdda651be01427f7bc5457932a9
+[Medium link] (https://medium.com/@birajdarshivam11/analysis-of-the-data-of-airbnb-cc8495fcfd0b?sk=87c56cdda651be01427f7bc5457932a9)
 
 
 # Thanks:
